@@ -37,6 +37,7 @@ Make sure you have Python 3 installed, then run:
 
 ```bash
 python3 main.py
+'''
 
 
 ##Author
